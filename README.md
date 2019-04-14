@@ -1,3 +1,1 @@
-# -calculator
-# calculator
-# calculator
+# 割り勘ん電卓
